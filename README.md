@@ -1,2 +1,2 @@
-# Hamoye_Winter_2024
+# Hamoye_Spring_2024
 Data Science Internship
